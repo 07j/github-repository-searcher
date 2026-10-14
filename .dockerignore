@@ -1,0 +1,6 @@
+target/
+.idea/
+.mvn/
+screenshots/
+local.properties
+*.iml
