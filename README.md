@@ -4,12 +4,11 @@ A Spring Boot REST API that searches GitHub repositories using the GitHub REST A
 
 ## Live Demo
 
-- **API base URL:** `https://YOUR-APP.onrender.com`
-- **Swagger UI:** `https://YOUR-APP.onrender.com/swagger-ui.html`
+- **API:** https://github-repository-searcher-q7z4.onrender.com
+- **Swagger UI:** https://github-repository-searcher-q7z4.onrender.com/swagger-ui.html
 
-> Hosted on Render's free plan. The first request after a period of inactivity can take up to a minute while the server wakes up.
-
-## Features
+> 
+## Feature
 
 - Search GitHub repositories by name (partial or full match), programming language, and sort order (stars, forks, or last updated)
 - Save the results in PostgreSQL with the repository ID, name, description, owner, language, stars, forks, and last updated date
